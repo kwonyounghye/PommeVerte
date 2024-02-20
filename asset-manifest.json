@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/PommeVerte/static/css/main.716ad98b.css",
-    "main.js": "/PommeVerte/static/js/main.670b2488.js",
+    "main.js": "/PommeVerte/static/js/main.b707c8ba.js",
     "index.html": "/PommeVerte/index.html",
     "main.716ad98b.css.map": "/PommeVerte/static/css/main.716ad98b.css.map",
-    "main.670b2488.js.map": "/PommeVerte/static/js/main.670b2488.js.map"
+    "main.b707c8ba.js.map": "/PommeVerte/static/js/main.b707c8ba.js.map"
   },
   "entrypoints": [
     "static/css/main.716ad98b.css",
-    "static/js/main.670b2488.js"
+    "static/js/main.b707c8ba.js"
   ]
 }
